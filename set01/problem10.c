@@ -1,0 +1,1 @@
+//Write a program to find Sum of two complex numbers struct _complex { float real,imaginary; }; <brtypedef _complex Complex Complex input_complex(); Complex add(Complex a, Complex b); void output(Complex a, Complex b, Complex c); input: 2 3 4 5 output 2 + 3i + 4 + 5i is 6 + 8i

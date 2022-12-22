@@ -1,0 +1,1 @@
+//Write a program to Compare two strings void input_two_string(char *a, char *b); int strcmp(char *a, char *b); void output(char *a, char *b, int result); input: hello world output: world is greater than hello
